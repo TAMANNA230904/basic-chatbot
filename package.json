@@ -1,0 +1,26 @@
+{
+  "name": "assignment_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file=.env index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "@huggingface/inference": "^2.8.1",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TAMANNA230904/basic-chatbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TAMANNA230904/basic-chatbot/issues"
+  },
+  "homepage": "https://github.com/TAMANNA230904/basic-chatbot#readme"
+}
